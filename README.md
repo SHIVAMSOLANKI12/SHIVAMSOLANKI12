@@ -1,67 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shivam Solanki</h1>
-<h3 align="center">🚀 Backend Developer | Building Scalable APIs</h3>
+<!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHIVAMSOLANKI12&label=Profile%20views&color=0e75b6&style=flat" alt="SHIVAMSOLANKI12" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Solanki&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Node.js+API+Expert;MongoDB+Specialist;Building+Scalable+Systems;Future+Backend+Engineer"/>
+</p>
+
+<!-- ================= VISITOR COUNT ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHIVAMSOLANKI12&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+# 👋 About Me
 
-- 🔭 Currently working on **Hospital Appointment System**
-- 🌱 Learning **Advanced Backend Architecture**
-- 💬 Ask me about **Node.js, Express, MongoDB, APIs**
-- ⚡ Goal: Become **Production Level Backend Engineer**
-
----
-
-### 🚀 Backend Tech Stack
-
-#### 👨‍💻 Languages
-- JavaScript
-- TypeScript
-
-#### ⚙️ Backend Frameworks
-- Node.js
-- Express.js
-
-#### 🗄️ Database
-- MongoDB
-- Mongoose
-
-#### 🔐 Authentication & Security
-- JWT Authentication
-- Role Based Access Control (RBAC)
-- Bcrypt Password Hashing
-- Middleware Security
-
-#### 📡 API Development
-- REST API
-- Pagination
-- Filtering
-- Rate Limiting
-- Error Handling (Production Ready)
-- MVC Architecture
-
-#### 🧠 Backend Concepts
-- Authentication Flow
-- Authorization
-- Middleware
-- Queue Jobs
-- OTP Verification System
-- CRUD Optimization
-- Data Validation
-
-#### 🛠️ Tools
-- Postman
-- Git
-- GitHub
-- MongoDB Atlas
+🚀 Backend Developer passionate about building scalable systems  
+🏥 Currently working on **Hospital Appointment System**  
+⚡ Focused on Production Level Backend Development  
+🎯 Goal: Become a Professional Backend Engineer  
 
 ---
 
-### 📊 GitHub Stats
+# 🛠 Backend Tech Stack
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔐 Authentication
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-003A8F?style=for-the-badge)
+
+### 📡 API Development
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### 🧰 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVAMSOLANKI12&show_icons=true&theme=tokyonight" />
@@ -69,7 +62,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+# 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SHIVAMSOLANKI12&theme=tokyonight" />
@@ -77,7 +70,7 @@
 
 ---
 
-### 🧠 Top Languages
+# 🧠 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMSOLANKI12&layout=compact&theme=tokyonight" />
@@ -85,21 +78,29 @@
 
 ---
 
-### 🚀 Featured Project
+# 🚀 Featured Project
 
-#### 🏥 Hospital Appointment System
-- Full Backend API
-- Authentication System
-- Appointment Booking Logic
-- Token Based Access
-- Secure Data Handling
+### 🏥 Hospital Appointment System
+✔ Secure Backend API  
+✔ JWT Authentication  
+✔ Appointment Booking Logic  
+✔ Token System  
+✔ Production Ready Architecture  
 
 ---
 
-### 🤝 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/SHIVAMSOLANKI12" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+<a href="https://github.com/SHIVAMSOLANKI12">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>

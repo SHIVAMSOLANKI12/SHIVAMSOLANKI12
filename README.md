@@ -37,32 +37,45 @@ Building secure, scalable and production-ready backend systems.
 
 </p>
 
-# 🛠 Backend Tech Stack
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Core_Technology-00C9FF?style=for-the-badge" />
+</p>
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+</p>
 
 ### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🔐 Authentication
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-003A8F?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat"/>
+  <img src="https://img.shields.io/badge/Bcrypt-003A8F?style=flat"/>
+</p>
 
 ### 📡 API Development
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+</p>
 
 ### 🧰 Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=flat"/>
+</p>
 
 ## 🚀 What I Build
 

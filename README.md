@@ -21,7 +21,7 @@
 # 👋 About Me
 
 🚀 Backend Developer passionate about building scalable systems  
-🏥 Currently working on **Hospital Appointment System**  
+🏥 Currently working on **PAWPILOT PROJECT**  
 ⚡ Focused on Production Level Backend Development  
 🎯 Goal: Become a Professional Backend Engineer  
 
@@ -31,7 +31,7 @@
 
 ### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -57,7 +57,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMSOLANKI12&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMSOLANKI12&show_icons=true&hide_border=true&title_color=000&text_color=444" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 # 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMSOLANKI12&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMSOLANKI12&layout=compact&hide_border=true" />
 </p>
 
 ---

@@ -29,9 +29,30 @@ Backend Engineer focused on building **production-ready APIs and scalable system
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Backend Tech Stack
 
-Node.js · Express · MongoDB · JWT · REST APIs · Bcrypt · Git · Postman
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔐 Authentication
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-003A8F?style=for-the-badge)
+
+### 📡 API Development
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### 🧰 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge)
 
 ---
 
